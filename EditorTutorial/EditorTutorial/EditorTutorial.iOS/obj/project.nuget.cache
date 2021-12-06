@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+zT6ImpiNUbX1lHguTNgc6GT+6aIK1geAj/HXK+9i7JuRIq0wxVHboz4rgU8QMgZ9sj8PtQw34aK/jTO4k32A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcter\\Desktop\\Projects\\EditorTutorial\\EditorTutorial\\EditorTutorial.iOS\\EditorTutorial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcter\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mcter\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\mcter\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

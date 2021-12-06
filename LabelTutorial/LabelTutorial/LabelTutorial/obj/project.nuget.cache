@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wlB3m9MGOqyxLI4bkmFZ0L22xHXPcp66yl6UebRxB/Xb3xxFonxU5WZo36REnnfza4y/CPBFXm54/E8IwmQ9mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcter\\Desktop\\Projects\\LabelTutorial\\LabelTutorial\\LabelTutorial\\LabelTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcter\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mcter\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mcter\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mcter\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\mcter\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
