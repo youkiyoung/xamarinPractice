@@ -36,5 +36,6 @@ namespace AppLifecycleTutorial
         {
             Console.WriteLine("OnResume");
         }
+
     }
 }
